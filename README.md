@@ -12,3 +12,6 @@ Github link. https://github.com/TheMaryamIsmail
 
 # usama
 https://github.com/usama764/
+
+# Duaa
+https://github.com/DuaaDaniya
