@@ -8,8 +8,7 @@ add your github link here like. https://github.com/AaqibRajput15
 https://github.com/fahad5118/
 
 # Maryam Ismail
-Github link: https://github.com/TheMaryamIsmail
-Project Link: https://github.com/TheMaryamIsmail/Webpage
+Github link. https://github.com/TheMaryamIsmail
 
 # usama
 https://github.com/usama764/
@@ -35,8 +34,10 @@ https://github.com/Suleman-Ali/repo
 # Ali Raza
 https://github.com/AliRazaZabtech
 
-
 # Shayan
 https://github.com/Shayan4111/
 
-
+# Tanzeel Sarwar
+Github:  https://github.com/Tanzeel-Sarwar
+Project:  https://github.com/Tanzeel-Sarwar/Project-DevOps
+Vercel:  https://project-dev-ops.vercel.app/
