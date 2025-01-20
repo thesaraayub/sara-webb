@@ -17,7 +17,8 @@ https://github.com/usama764/
 https://github.com/DuaaDaniya
 
 # Iqra
-https://github.com/Iqra-mughal50
+github link: https://github.com/Iqra-mughal50
+class web task: https://github.com/Iqra-mughal50/Project
 
 # Maryam Tariq
 https://github.com/maryamkhan55
