@@ -8,7 +8,7 @@ add your github link here like. https://github.com/AaqibRajput15
 https://github.com/fahad5118/
 
 # Maryam Ismail
-Github link. https://github.com/TheMaryamIsmail
+Github link. https://github.com/TheMaryamIsmail Project link: https://github.com/TheMaryamIsmail/Webpage
 
 # usama
 https://github.com/usama764/
@@ -49,3 +49,8 @@ https://github.com/Shayan4111/
 
 # Subhan
 https://github.com/Rohangujja
+
+# Hassaan Aamir
+Github: https://github.com/Hassaan1019
+Project: https://github.com/Hassaan1019/Web-Page
+Vercel: https://web-page-beta-nine.vercel.app/
