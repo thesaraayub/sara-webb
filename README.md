@@ -15,6 +15,7 @@ https://github.com/usama764/
 
 # Duaa
 https://github.com/DuaaDaniya
+project link: https://github.com/DuaaDaniya/Project
 
 # Iqra
 github link: https://github.com/Iqra-mughal50
