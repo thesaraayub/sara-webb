@@ -120,7 +120,8 @@ footer nav li{
 }
 footer h4{
     display: inline;
-    font-size: var(--font-caption);
+    font-size: var(--font-b1);
+    margin: 25px 0px;
 }
 
 
@@ -128,12 +129,22 @@ footer ul{
     list-style: none;
 }
 
+.footer-nav{
+    display: flex;
+    margin: 25px 0px;
+}
+
 footer a{
     color: var(--acent-clr);
     text-decoration: none;
-    font-size: x-small;
+    font-size: small;
 }
 
 footer h6{
     text-align: center;
+    margin: 10px 0px;
+}
+
+footer form{
+    margin: 25px 0px;
 }
