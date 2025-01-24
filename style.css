@@ -89,7 +89,7 @@ nav button{
 main{
     background-image: linear-gradient(30deg,rgb(30, 30, 118),rgb(103, 14, 14));
     /* background-color:var(--base-clr-lt); */
-    height: 700px;
+    height: 1000px;
 }
 
 main h2{
