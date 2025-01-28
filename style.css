@@ -101,7 +101,41 @@ main h2{
     align-items: center;
 }
 
+.hero-section{
+    background-image: url('images/image.png');
+    height: 550px;
+}
 
+.hero-section h1{
+    font-size: var(--font-h3);
+    color: var(--acent-clr);
+    position: relative;
+    top: 30%;
+    left: 10%;
+}
+
+.hero-section p{
+    font-size: var(--font-subtitle1);
+    color: var(--acent-clr);
+    position: relative;
+    top:35%;
+    left: 10%;
+    width: 1080px;
+    word-spacing: 2px;
+    letter-spacing: 1px;
+    text-align: justify;
+}
+
+.hero-section button{
+    background-color: var(--vibrant-clr);
+    color: var(--acent-clr);
+    padding: 8px 15px;
+    border: 2px solid var(--acent-clr);
+    border-radius: 3px;
+    position: relative;
+    top: 50%;
+    left: 10%;
+}
 
 footer{
     background-color: var(--base-clr);
